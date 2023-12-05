@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&family=Shrikhand&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+#bodyForm {
+    background-color: white;
+    background-image: url("Images/robots.png");
+}
+
+
+#nav {
+    background-color: #cdd6a9;
+}
+
+#navBody {
+    background-color: #cdd6a9;
+}
+
+#log {
+    font-family: 'Love Ya Like A Sister', cursive;
+    background: -webkit-linear-gradient(1800deg, #3878A4, #7E7094);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #7E7094;
+}
+
+#logText {
+    font-family: 'Love Ya Like A Sister', cursive;
+    background: -webkit-linear-gradient(315deg, #BF1717, #FF9700);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: tomato; 
+}
+
+#space {
+    height: 6em;
+}
+
+#spaceEnd {
+    height: 3em;
+}
+
+#welcome {
+    font-family: 'Love Ya Like A Sister', cursive;
+    background: -webkit-linear-gradient(315deg, #BF1717, #FF9700);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: tomato; 
+}
+
+#parr {
+    font-family: 'Love Ya Like A Sister', cursive;
+}
+
+#section {
+    font-family: 'Love Ya Like A Sister', cursive;
+    background: -webkit-linear-gradient(315deg, #676E5E, #97A884);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: tomato; 
+}
+
+#cardB1 {
+    border: solid #E6E7D5;
+    border-radius: 20px;
+}
+#cardBody1 {
+    border-top: solid #E6E7D5;
+    background-color: #E6E7D5;
+}
+#cardButton1 {
+    border: solid 2px #97A884;
+    color: #97A884;
+}
+#cardButton1:hover {
+    background-color: #97A884;
+    color: #E6E7D5;
+}
+
+#cardB2 {
+    border: solid #CDD6A9;
+    border-radius: 20px;
+}
+#cardBody2 {
+    border-top: solid #CDD6A9;
+    background-color: #CDD6A9;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+#cardButton2 {
+    border: solid 2px #97A884;
+    color: #97A884;
+}
+#cardButton2:hover {
+    background-color: #97A884;
+    color: #CDD6A9 ;
+}
+
+#cardB3 {
+    border: solid #97A884;
+    border-radius: 20px;
+}
+#cardBody3 {
+    border-top: solid #97A884;
+    background-color: #97A884;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+#cardButton3 {
+    border: solid 2px #676E5E;
+    color: #676E5E;
+}
+#cardButton3:hover {
+    background-color: #676E5E;
+    color: #97A884;
+}
+
+#footTopBottom {
+    background-color: #CDD6A9;
+}
+
+#footContent {
+    background-color: #E6E7D5;
+    font-family: 'Love Ya Like A Sister', cursive;
+}
+
+#info {
+    background: -webkit-linear-gradient(1800deg, #3878A4, #7E7094);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    color: #7E7094;
+}
+
+#icon i{
+    background: -webkit-linear-gradient(1800deg, #3878A4, #7E7094);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    color: #7E7094;
+    font-size: 30px;
+    margin: 0 20px;
+}

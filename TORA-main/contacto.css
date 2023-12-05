@@ -1,0 +1,42 @@
+h4  {
+    font-family: 'Love Ya Like A Sister', cursive;
+}
+
+h1{
+    font-family: 'Love Ya Like A Sister', cursive;
+    /* background: -webkit-linear-gradient(315deg, #676E5E, #97A884, #CDD6A9); */
+    background: -webkit-linear-gradient(315deg, #BF1717, #FF9700);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: tomato; 
+}
+
+h3{
+    font-family: 'Love Ya Like A Sister', cursive;
+    /* background: -webkit-linear-gradient(315deg, #676E5E, #97A884, #CDD6A9); */
+    background: -webkit-linear-gradient(315deg, #c55555, #FF9700);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: tomato; 
+}
+
+h5{
+    font-family: 'Love Ya Like A Sister', cursive;
+    background: -webkit-linear-gradient(315deg, #252524, #97A884);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: tomato; 
+}
+
+#contactSpace {
+    background-color: #97a88486;
+    border-radius: 20px;
+}
+
+#butt {
+    background: linear-gradient(45deg, #3878A4, #7E7094);
+    color: white;
+}

@@ -1,0 +1,64 @@
+* {
+    margin-top: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-registro {
+    width: 20rem;
+    background: #cdd6a9;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: cursive;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.form-registro h4 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.controls {
+    width: 100%;
+    background: #cdd6a9;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid tomato;
+    font-family: cursive;
+    font-size: 18px;
+}
+
+.form-registro p {
+    height: 40px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 40px;
+    color: black;
+    font-family: cursive;
+    line-height: 40px;
+}
+
+.form-registro a {
+    color: tomato;
+    text-decoration: underline;
+}
+
+.form-registro a:hover {
+    color: tomato;
+    text-decoration: none;
+}
+
+.form-registro .botons{
+    width: 100px;
+    background: tomato;
+    border: none;
+    padding: 10px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    margin-top: 25px;
+    justify-content: center;
+}
